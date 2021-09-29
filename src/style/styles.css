@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+
+  --primary-color: #004e5f;
+  --highlight-color: #def7f7;
+}
+
+.box {
+  width: 400px;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.highlight {
+  background-color: lightblue;  
+}
